@@ -1,5 +1,4 @@
 import requests
-import pandas
 #!pip install selenium
 import selenium
 from selenium import webdriver
